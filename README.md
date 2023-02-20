@@ -12,6 +12,8 @@ classifications mentioned.</li></ul>
 <ul><li>Breast Cancer Prediction Was developed here with accuracy of 96%, The model is tested and it was giving good predictions mostly</li></ul>
 <li>Churn Prediction</li>
 <ul><li>Churn rate is a great Bussiness strategy to keep track of their customers, This was developed for bussiness to know about their customers likelihood of using their services or product, It help bussinesses or companies to not just improve their customers but also helps in not losing their customers</li></ul>
+<li>Loan Status Prediction</li>
+<ul><li>This helps in prediction of loans on various parameters like education, dependents, self_employed, LoanAmount, property type they have etc accurately.</li></ul>
 <li>Movie recommendation</li>
 <ul><li>Recommendation of movies help user save their time in searching, How to give recommendations? Usually people who frequently watch movies need to move through all movies to find their interesting topic, What if user can input action and get all movies on action. This model is developed in such a way that user input of genre or nearer movie name help user to find relevant movies. </li></ul>
 <li>Video Game Sales Predictor</li>
